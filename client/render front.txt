@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Full-Stack App</title>
+</head>
+<body>
+  <h1>Hello from Frontend</h1>
+  <p>This site is hosted on Render with a backend server!</p>
+</body>
+</html>
